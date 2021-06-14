@@ -1,0 +1,9 @@
+server:
+  port: 10010
+
+geek-server:
+  port: 20010
+
+logging:
+  level:
+    cn.yzd3008: DEBUG
